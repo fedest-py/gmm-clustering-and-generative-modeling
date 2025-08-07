@@ -20,7 +20,7 @@ This project explores the application of Gaussian Mixture Models (GMMs) across t
 
 - Compared classifier performance using F1-score
 
-- 🔍 Key Concepts
+## 🔍 Key Concepts
 Gaussian Mixture Models (GMM)
 
 Model selection using BIC and AIC
