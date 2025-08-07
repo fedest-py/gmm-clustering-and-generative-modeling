@@ -32,5 +32,4 @@ F1-score evaluation
 Generative models
 
 
-📘 Acknowledgments
-Some parts of this project were completed with external guidance and research support. This project reflects a learning experience and growth in understanding machine learning concepts.
+Acknowledgments: Some parts of this project were completed with external guidance and research support. This project reflects a learning experience and growth in understanding machine learning concepts.
